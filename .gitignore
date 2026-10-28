@@ -1,0 +1,10 @@
+*.db
+*.db-*
+*.sqlite*
+*.xls
+*.XLS
+*.xlsx
+__pycache__/
+.venv/
+.env
+.streamlit/secrets.toml
